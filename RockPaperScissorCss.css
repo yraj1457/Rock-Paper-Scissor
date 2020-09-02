@@ -1,0 +1,89 @@
+body{
+	width: 500px;
+	height: 700px;
+}
+#header{
+	font-size: 35px;
+	color: #6d4c41;
+	text-decoration: underline;
+	text-underline-position: under;
+}
+
+.main_one{
+	margin-left: 33px;
+	font-size: 21px;
+}
+
+.main_body{
+	margin-left: 35px;
+}
+
+button{
+	margin: 5px;
+	display: inline-block;
+	padding: 20px;
+}
+
+#Rock{
+	border-color: #6d4c41;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+#Rock:hover{
+	background-color: #6d4c41;
+	color: white;
+}
+
+#Paper{
+	border-radius: 10px;
+	cursor: pointer;
+	border-color: #0288d1;
+}
+
+#Paper:hover{
+	
+	background-color: #0288d1;
+	color: white;
+}
+
+#Scissor{
+	border-radius: 10px;
+	cursor: pointer;
+	border-color: #b71c1c;
+}
+
+#Scissor:hover{
+	
+	background-color: #b71c1c;
+	color: white;
+}
+
+.display{
+	color: #6d4c41;
+	font-size: 28px;
+	margin-left: 80px;
+}
+
+.disp2{
+	color: #263238;
+	font-size: 36px;
+	margin-left: 55px;
+}
+
+
+#tagain{
+	margin-left: 115px;
+	padding: 12px;
+	cursor: pointer;
+}
+
+span#p{
+	color:#0288d1;
+}
+
+span#s{
+	color:#b71c1c;
+}
+
+
